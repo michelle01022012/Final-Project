@@ -260,7 +260,7 @@ nav {
   right: 18px;
 }
 
-/* HEADER / ABOUT US */
+/* HEADER  and the ABOUT US */
 
 section {
   padding: 0 32px;
@@ -359,7 +359,7 @@ header {
   max-width: 768px;
 }
 
-/* FEATURES */
+/* FEATURES SECTION */
 
 #features {
   position: relative;
@@ -427,7 +427,7 @@ header {
   margin: 0 auto;
 }
 
-/* QUALITY WORK */
+/* QUALITY WORK SECTION*/
 
 #quality .row {
   display: flex;
@@ -474,7 +474,7 @@ header {
   z-index: 1;
 }
 
-/* STEPS */
+/* STEPS SECTION */
 
 #steps .row {
   display: flex;
@@ -539,7 +539,7 @@ header {
   fill: currentColor;
 }
 
-/* VALUES */
+/* VALUES SECTION */
 
 #values .row {
   display: flex;
@@ -615,7 +615,7 @@ header {
   color: #718096;
 }
 
-/* PRICING */
+/* PRICING SECTION */
 
 #pricing .row {
   display: flex;
@@ -806,7 +806,7 @@ header {
   justify-content: space-between;
 }
 
-/* TESTIMONIALS */
+/* TESTIMONIALS SECTION*/
 section #testimonials {
   padding: 0px;
 }
@@ -928,7 +928,7 @@ section #testimonials {
   height: 20px;
 }
 
-/* START / CALL TO ACTION */
+/* START AND CALL TO ACTION SECTION*/
 
 main {
   margin-bottom: 96px;
@@ -1021,7 +1021,7 @@ main {
   opacity: 0.5;
 }
 
-/* FOOTER */
+/* FOOTER SECTION*/
 
 footer {
   padding: 96px 32px;
